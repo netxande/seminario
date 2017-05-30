@@ -6,4 +6,3 @@
 	* José Ricardo
 	* José Rusemberg
 	* Wanderson Izidro
-
