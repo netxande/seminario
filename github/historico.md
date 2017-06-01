@@ -6,7 +6,7 @@
 ## O que é GitHub: 
   É uma plataforma de hospedagem de código para controle de versão e colaboração de projetos Git. Isso permite que você e outros trabalhem juntos em projetos de qualquer lugar.
 
-## Como surgiu a ferramenta Git:
+### Como surgiu a ferramenta Git:
   O kernel do Linux é um projeto de software de código aberto de escopo bastante grande. Durante a maior parte da vida útil da manutenção
 do Kernel do Linux (1991 - 2002), as mudanças no software foram passadas como remendos e arquivos. Em 2002, o projeto do Kernel do Linux 
 começou a usar um DVCS proprietário chamado BitKeeper.
