@@ -19,7 +19,10 @@ começou a usar um DVCS proprietário chamado BitKeeper.
   
   `Rapidez`
   `Desenho simples`
-  `Forte apoio ao desenvolvimento não-linear(milhares de ramos paralelos): Os branch's`
   `Totalmente distribuído`
-  
+  1. Capaz de lidar com grandes projetos como o Kernel do Linux de forma eficiente.
+  2. Forte apoio ao desenvolvimento não-linear(milhares de ramos paralelos): Os branch's
+   
 Desde o seu nascimento em 2005, Git evoluiu e amadureceu para ser fácil de usar e ainda manter estas qualidades iniciais. É incrivelmente rápido, é muito eficiente com grandes projetos e possui um incrível sistema de ramificação para desenvolvimento não-linear.
+
+
