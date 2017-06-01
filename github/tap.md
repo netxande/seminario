@@ -43,6 +43,7 @@ Será necessário a dedicação e periodo considerável de tempo para entendimen
 * Paradigma do método de apresentação tradicional, através de slides e arquivos doc/pdf.
 * Pouco conhecimento na tecnologia.
 * Falta de prática.
+
 ### IX- Administração
 1. **Necessidade inicial de recursos**
 O gerente terá uma equipe de 3 alunos, não podendo contratar externos para o projeto. Máquinas e equipamentos serão oferecidos pela instituição de ensino e pelos próprios colaboradores.
