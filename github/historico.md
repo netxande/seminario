@@ -3,7 +3,7 @@
 ## O que é Git : 
   É um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos nas quais diversas pessoas podem contribuir simultaneamente, editando e criando novos arquivos e permitindo que os programadores possam desenvolver sem o risco de suas alterações serem sobrescritas.
 
-## O GitHub: 
+## O que é GitHub: 
   É uma plataforma de hospedagem de código para controle de versão e colaboração de projetos Git. Isso permite que você e outros trabalhem juntos em projetos de qualquer lugar.
 
 ## Como surgiu a ferramenta Git:
